@@ -20,13 +20,15 @@
 
 ## 🎥 Demo Video
 
-### Quick Preview (GIF)
-![RoboDoc v1 Demo](demo_preview.gif)
+## Demo Video
 
-### Full Quality Video
-[**Download Full Demo Video (.mov)**](demo_video.mov) - Complete demonstration with audio
-
-*Note: Click the link above to download the full-quality video file*
+<div align="center">
+  <img src="demo_video.gif" alt="RoboDoc v1 - Injury Segmentation Demo" width="700" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <br><br>
+  <em>RoboDoc v1 demonstration showing automated injury detection and segmentation workflow</em>
+  <br>
+  <sub><a href="demo_video.mov">Download full-quality video (.mov)</a></sub>
+</div>
 
 ## 🏛️ Affiliation
 
