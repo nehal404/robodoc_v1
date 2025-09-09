@@ -111,14 +111,6 @@ Test the application with provided images in `test_images/` folder.
 
 This is **Version 1 of 7** in the complete RoboDoc medical imaging project. Each version focuses on different aspects of medical image analysis and diagnostic assistance.
 
-## 🤝 Contributing
-
-Contributions welcome! Please ensure medical accuracy and follow clinical documentation standards.
-
-
----
-
----
 
 <div align="center">
   <img src="logos/robodoc_logo.png" alt="Prototyping Lab" height="60" style="margin: 0 20px;">
