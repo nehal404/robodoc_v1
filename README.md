@@ -20,7 +20,13 @@
 
 ## 🎥 Demo Video
 
-[**Watch the Demo Video**](demo_video.mov) - See RoboDoc v1 in action with real medical imaging examples.
+### Quick Preview (GIF)
+![RoboDoc v1 Demo](demo_preview.gif)
+
+### Full Quality Video
+[**Download Full Demo Video (.mov)**](demo_video.mov) - Complete demonstration with audio
+
+*Note: Click the link above to download the full-quality video file*
 
 ## 🏛️ Affiliation
 
