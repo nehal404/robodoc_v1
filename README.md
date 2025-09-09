@@ -5,6 +5,12 @@
 </div>
 
 <div align="center">
+  <img src="logos/prototyping_lab_logo.PNG" alt="Prototyping Lab" height="60" style="margin: 0 20px;">
+  <img src="logos/msa_university_logo.png" alt="MSA University" height="60" style="margin: 0 20px;">
+  <img src="logos/biotechnology_faculty_logo.png" alt="Faculty of Biotechnology" height="60" style="margin: 0 20px;">
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/OpenCV-4.5%2B-green.svg" alt="OpenCV">
   <img src="https://img.shields.io/badge/PyQt6-6.0%2B-orange.svg" alt="PyQt6">
@@ -116,6 +122,7 @@ Contributions welcome! Please ensure medical accuracy and follow clinical docume
 ---
 
 <div align="center">
+  <img src="logos/robodoc_logo.png" alt="Prototyping Lab" height="60" style="margin: 0 20px;">
   <img src="logos/prototyping_lab_logo.PNG" alt="Prototyping Lab" height="60" style="margin: 0 20px;">
   <img src="logos/msa_university_logo.png" alt="MSA University" height="60" style="margin: 0 20px;">
   <img src="logos/biotechnology_faculty_logo.png" alt="Faculty of Biotechnology" height="60" style="margin: 0 20px;">
