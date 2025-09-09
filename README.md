@@ -15,7 +15,7 @@
 **RoboDoc v1** is the first version in the complete RoboDoc project series (7 versions total), focusing on automated medical injury detection and segmentation using computer vision techniques.
 
 <div align="center">
-  <img src="sample_results/sample result 3.png" alt="Prototyping Lab" height="160" style="margin: 0 20px;">
+  <img src="sample_results/sample_result_3.png" alt="sample_result" height="160" style="margin: 0 20px;">
 </div>
 
 ## 🎥 Demo Video
