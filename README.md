@@ -20,8 +20,6 @@
 
 ## 🎥 Demo Video
 
-## Demo Video
-
 <div align="center">
   <img src="demo_video.gif" alt="RoboDoc v1 - Injury Segmentation Demo" width="700" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <br><br>
