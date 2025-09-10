@@ -300,7 +300,7 @@ class InjuryDetectionApp(QWidget):
         
         # Logo
         logo_label = QLabel()
-        pixmap = QPixmap("RoboDoc 1/logo.png")
+        pixmap = QPixmap("robodoc_v1/logo.png")
         logo_pixmap = pixmap.scaled(80, 80, Qt.AspectRatioMode.KeepAspectRatio, Qt.TransformationMode.SmoothTransformation)
         logo_label.setPixmap(logo_pixmap)
         logo_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
