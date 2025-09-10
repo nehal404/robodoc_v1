@@ -119,10 +119,10 @@ This is **Version 1 of 7** in the complete RoboDoc medical imaging project. Each
 
 
 <div align="center">
-  <img src="logos/robodoc_logo.png" alt="Prototyping Lab" height="160" style="margin: 0 20px;">
-  <img src="logos/prototyping_lab_logo.PNG" alt="Prototyping Lab" height="160" style="margin: 0 20px;">
-  <img src="logos/msa_university_logo.png" alt="MSA University" height="160" style="margin: 0 20px;">
-  <img src="logos/biotechnology_faculty_logo.png" alt="Faculty of Biotechnology" height="160" style="margin: 0 20px;">
+  <img src="logos/robodoc_logo.png" alt="Prototyping Lab" height="60" style="margin: 0 20px;">
+  <img src="logos/prototyping_lab_logo.PNG" alt="Prototyping Lab" height="60" style="margin: 0 20px;">
+  <img src="logos/msa_university_logo.png" alt="MSA University" height="60" style="margin: 0 20px;">
+  <img src="logos/biotechnology_faculty_logo.png" alt="Faculty of Biotechnology" height="60" style="margin: 0 20px;">
 </div>
 
 <div align="center">
