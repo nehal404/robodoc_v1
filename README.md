@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Version-1%2F7-brightgreen.svg" alt="Version">
 </div>
 
-**RoboDoc v1** is the first version in the complete RoboDoc project series (7 versions total), focusing on automated medical injury detection and segmentation using computer vision techniques.
+**RoboDoc v1** is the first version in the complete [RoboDoc project](https://github.com/nehal404/robodoc) series (7 versions total), focusing on automated medical injury detection and segmentation using computer vision techniques.
 
 <div align="center">
   <img src="sample_results/sample_result_3.png" alt="sample_result" height="160" style="margin: 0 20px;">
@@ -115,7 +115,7 @@ Test the application with provided images in `test_images/` folder.
 
 ## 📊 RoboDoc Project Series
 
-This is **Version 1 of 7** in the complete RoboDoc medical imaging project. Each version focuses on different aspects of medical image analysis and diagnostic assistance.
+This is **Version 1 of 7** in the [complete RoboDoc](https://github.com/nehal404/robodoc) medical imaging project. Each version focuses on different aspects of medical image analysis and diagnostic assistance.
 
 
 <div align="center">
